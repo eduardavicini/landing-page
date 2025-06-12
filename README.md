@@ -1,25 +1,26 @@
 # Landing Page para Clínica de Estética (Projeto Fictício)
 
-Projeto de landing page simples e funcional, criada do zero utilizando apenas **HTML**, **CSS** e **JavaScript**. Desenvolvida para uma clínica fictícia de estética, com foco em design limpo, responsividade e boa experiência do usuário.
+Esta landing page foi criada do zero usando **HTML**, **CSS** e **JavaScript** para uma clínica fictícia de estética. O objetivo principal é apresentar os serviços da clínica, exibir depoimentos de clientes satisfeitos e facilitar o contato dos interessados.
 
-A página se adapta a diferentes tamanhos de tela, garantindo fácil navegação tanto em desktops quanto em dispositivos móveis. O código foi estruturado com atenção à semântica, usabilidade e desempenho, buscando uma apresentação visual atraente e clara.
+A página é simples, moderna e responsiva, adaptando-se bem a diferentes dispositivos para garantir uma boa experiência para todos os visitantes.
 
 ## Funcionalidades principais
 
-- Design moderno e clean  
-- Responsivo para diferentes dispositivos  
-- Interatividade básica com JavaScript  
-- Código semântico e organizado  
-- Foco em usabilidade e performance
+- Apresentação clara dos serviços oferecidos pela clínica  
+- Seção de depoimentos para transmitir confiança e credibilidade  
+- Formulário de contato direto para facilitar o agendamento ou dúvidas  
+- Design responsivo para acesso em qualquer dispositivo  
+- Código organizado, semântico e focado em usabilidade  
 
 ## Tecnologias utilizadas
 
 - HTML  
 - CSS  
-- JavaScript
+- JavaScript  
 
 ## Como usar
 
 1. Clone o repositório:  
    ```bash
    git clone https://github.com/seu-usuario/seu-repositorio.git
+
