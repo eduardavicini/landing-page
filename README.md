@@ -6,7 +6,6 @@ A página é simples, moderna e responsiva, adaptando-se bem a diferentes dispos
 
 ## Funcionalidades principais
 
-- Apresentação clara dos serviços oferecidos pela clínica  
 - Seção de depoimentos para transmitir confiança e credibilidade  
 - Formulário de contato direto para facilitar o agendamento ou dúvidas  
 - Design responsivo para acesso em qualquer dispositivo  
