@@ -42,9 +42,7 @@ cd landing-page
 ```
 
 2. Abra o arquivo index.html no seu navegador:
+```bash
 Clique duas vezes no arquivo ou Use uma extensão como "Live Server" (no VS Code)
-
-📌 Status
-✅ Projeto concluído (versão estática)
-
+```
 
