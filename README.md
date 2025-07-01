@@ -1,25 +1,55 @@
-# Landing Page para Clínica de Estética (Projeto Fictício)
+# Landing Page | HTML & CSS 💻✨
 
-Esta landing page foi criada do zero usando **HTML**, **CSS** e **JavaScript** para uma clínica fictícia de estética. O objetivo principal é apresentar os serviços da clínica, exibir depoimentos de clientes satisfeitos e facilitar o contato dos interessados.
+Projeto de uma landing page responsiva desenvolvida com **HTML5** e **CSS3**, focado em design moderno, organização de layout e boas práticas de front-end. Ideal para treinar estrutura de páginas, responsividade e estilização.
 
-A página é simples, moderna e responsiva, adaptando-se bem a diferentes dispositivos para garantir uma boa experiência para todos os visitantes.
+---
 
-## Funcionalidades principais
+## 🖼️ Prévia do projeto
+📸 *(Adicione aqui um print ou gif do site rodando no navegador)*  
+Exemplo:  
+![screenshot](./assets/preview.png)
 
-- Seção de depoimentos para transmitir confiança e credibilidade  
-- Formulário de contato direto para facilitar o agendamento ou dúvidas  
-- Design responsivo para acesso em qualquer dispositivo  
-- Código organizado, semântico e focado em usabilidade  
+---
 
-## Tecnologias utilizadas
+## 💻 Tecnologias utilizadas
+- HTML5
+- CSS3
+- Flexbox / Grid
+- Responsividade mobile
 
-- HTML  
-- CSS  
-- JavaScript  
+---
 
-## Como usar
+## 🚀 Funcionalidades
+- [x] Layout adaptável a diferentes tamanhos de tela
+- [x] Seções de chamada para ação
+- [x] Estilo visual limpo e moderno
+- [ ] Animações e interações JS (ideia para futuras versões)
 
-1. Clone o repositório:  
-   ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+---
+
+## 📂 Estrutura de pastas
+```bash
+landing-page/
+├── index.html
+├── style.css
+├── assets/
+│ ├── imagens
+│ └── (outros arquivos visuais)
+└── README.md
+```
+
+## 🧪 Como visualizar o projeto localmente
+
+1. Clone o repositório:
+```bash
+git clone https://github.com/eduardavicini/landing-page.git
+cd landing-page
+```
+
+2. Abra o arquivo index.html no seu navegador:
+Clique duas vezes no arquivo ou Use uma extensão como "Live Server" (no VS Code)
+
+📌 Status
+✅ Projeto concluído (versão estática)
+
 
