@@ -4,13 +4,6 @@ Projeto de uma landing page responsiva desenvolvida com **HTML5** e **CSS3**, fo
 
 ---
 
-## 🖼️ Prévia do projeto
-📸 *(Adicione aqui um print ou gif do site rodando no navegador)*  
-Exemplo:  
-![screenshot](./assets/preview.png)
-
----
-
 ## 💻 Tecnologias utilizadas
 - HTML5
 - CSS3
@@ -37,6 +30,8 @@ landing-page/
 │ └── (outros arquivos visuais)
 └── README.md
 ```
+
+---
 
 ## 🧪 Como visualizar o projeto localmente
 
